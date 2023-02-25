@@ -1,3 +1,3 @@
 BlackCock = {
-  "1tsJustgp"
+  ""
 }
